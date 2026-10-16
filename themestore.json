@@ -1,0 +1,506 @@
+{
+  "store": {
+    "title": "FBI-MO Theme Store",
+    "author": "morrisonion",
+    "description": "Themes for FBI-MO",
+    "format": 1,
+    "revision": 1
+  },
+  "themes": [
+    {
+      "name": "Simple Dark",
+      "author": "1ted59",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 69645,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/1ted59/Simple%20Dark/Simple%20Dark.motheme"
+    },
+    {
+      "name": "DarkPlus",
+      "author": "2b-zipper",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 38904,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/2b-zipper/DarkPlus/DarkPlus.motheme"
+    },
+    {
+      "name": "Ok Computer - Radiohead",
+      "author": "Brumbpo Tungus",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 626118,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Brumbpo%20Tungus/Ok%20Computer%20-%20Radiohead/Ok%20Computer%20-%20Radiohead.motheme"
+    },
+    {
+      "name": "CHT_Player's Theme",
+      "author": "CHT_Player",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 553338,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/CHT_Player/CHT_Player%27s%20Theme/CHT_Player%27s%20Theme.motheme"
+    },
+    {
+      "name": "Persona 5 Ann Theme",
+      "author": "FancyQuinn",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 680416,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/FancyQuinn/Persona%205%20Ann%20Theme/Persona%205%20Ann%20Theme.motheme"
+    },
+    {
+      "name": "Hatsune Miku",
+      "author": "Goofyanimefan",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 635604,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Goofyanimefan/Hatsune%20Miku/Hatsune%20Miku.motheme"
+    },
+    {
+      "name": "Giratina",
+      "author": "GrewdonGaming21",
+      "version": "v1",
+      "description": "Fixed by Ozymandias",
+      "previews": 2,
+      "size": 375460,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/GrewdonGaming21/Giratina/Giratina.motheme"
+    },
+    {
+      "name": "Team Aqua",
+      "author": "GrewdonGaming21",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 978857,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/GrewdonGaming21/Team%20Aqua/Team%20Aqua.motheme"
+    },
+    {
+      "name": "Team Magma",
+      "author": "GrewdonGaming21",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 889448,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/GrewdonGaming21/Team%20Magma/Team%20Magma.motheme"
+    },
+    {
+      "name": "Asuka Langley - Neon Genesis Evangelion",
+      "author": "JhonSmith",
+      "version": "v1",
+      "description": "",
+      "previews": 4,
+      "size": 714881,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/JhonSmith/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion/Asuka%20Langley%20-%20Neon%20Genesis%20Evangelion.motheme"
+    },
+    {
+      "name": "FBI - Winners Don't Use Drugs",
+      "author": "Jirachi_star",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 73648,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Jirachi_star/FBI%20-%20Winners%20Don%27t%20Use%20Drugs/FBI%20-%20Winners%20Don%27t%20Use%20Drugs.motheme"
+    },
+    {
+      "name": "Simple Mint",
+      "author": "McWhiters9511",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 74699,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/McWhiters9511/Simple%20Mint/Simple%20Mint.motheme"
+    },
+    {
+      "name": "FBI Literal Theme",
+      "author": "MustacheBoyo",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 148857,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/MustacheBoyo/FBI%20Literal%20Theme/FBI%20Literal%20Theme.motheme"
+    },
+    {
+      "name": "FBI Literal Theme V2",
+      "author": "MustacheBoyo",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 220835,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/MustacheBoyo/FBI%20Literal%20Theme%20V2/FBI%20Literal%20Theme%20V2.motheme"
+    },
+    {
+      "name": "Dedsec Inspired",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 337941,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/Dedsec%20Inspired/Dedsec%20Inspired.motheme"
+    },
+    {
+      "name": "Dedsec Inspired (no ASCII art)",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 340156,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/Dedsec%20Inspired%20%28no%20ASCII%20art%29/Dedsec%20Inspired%20%28no%20ASCII%20art%29.motheme"
+    },
+    {
+      "name": "Pikachu",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 169046,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/Pikachu/Pikachu.motheme"
+    },
+    {
+      "name": "Powerpuff Girls",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 761697,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/Powerpuff%20Girls/Powerpuff%20Girls.motheme"
+    },
+    {
+      "name": "Team Rainbow Rocket",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 362212,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/Team%20Rainbow%20Rocket/Team%20Rainbow%20Rocket.motheme"
+    },
+    {
+      "name": "dotHack Skeith and Haseo",
+      "author": "Navonod",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 652494,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Navonod/dotHack%20Skeith%20and%20Haseo/dotHack%20Skeith%20and%20Haseo.motheme"
+    },
+    {
+      "name": "Ryomou Shimei",
+      "author": "Nekukun97",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 1084202,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Nekukun97/Ryomou%20Shimei/Ryomou%20Shimei.motheme"
+    },
+    {
+      "name": "The Legend of Zelda 3DS",
+      "author": "OblivionReign",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 719021,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/OblivionReign/The%20Legend%20of%20Zelda%203DS/The%20Legend%20of%20Zelda%203DS.motheme"
+    },
+    {
+      "name": "Hotel Dusk - Last Window",
+      "author": "Patoman0-0",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 653202,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Patoman0-0/Hotel%20Dusk%20-%20Last%20Window/Hotel%20Dusk%20-%20Last%20Window.motheme"
+    },
+    {
+      "name": "Akashic Records",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 425028,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Akashic%20Records/Akashic%20Records.motheme"
+    },
+    {
+      "name": "Bravely Default",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 600932,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Bravely%20Default/Bravely%20Default.motheme"
+    },
+    {
+      "name": "Charizard X",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 432532,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Charizard%20X/Charizard%20X.motheme"
+    },
+    {
+      "name": "Fire Emblem Echos",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 809894,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Fire%20Emblem%20Echos/Fire%20Emblem%20Echos.motheme"
+    },
+    {
+      "name": "Kanna",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 921456,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Kanna/Kanna.motheme"
+    },
+    {
+      "name": "Kirby",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 392073,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Kirby/Kirby.motheme"
+    },
+    {
+      "name": "Lucina - Fire Emblem",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 674252,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Lucina%20-%20Fire%20Emblem/Lucina%20-%20Fire%20Emblem.motheme"
+    },
+    {
+      "name": "Megumin",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 332679,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Megumin/Megumin.motheme"
+    },
+    {
+      "name": "Monster Hunter",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 673794,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Monster%20Hunter/Monster%20Hunter.motheme"
+    },
+    {
+      "name": "Overwatch Reaper",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 420245,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Overwatch%20Reaper/Overwatch%20Reaper.motheme"
+    },
+    {
+      "name": "Phoenix Wright",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 390561,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Phoenix%20Wright/Phoenix%20Wright.motheme"
+    },
+    {
+      "name": "Rem",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 333533,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Rem/Rem.motheme"
+    },
+    {
+      "name": "Sabrina",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 490644,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Sabrina/Sabrina.motheme"
+    },
+    {
+      "name": "Summon Night 5 EX VE",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 403122,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Summon%20Night%205%20EX%20VE/Summon%20Night%205%20EX%20VE.motheme"
+    },
+    {
+      "name": "Triforce",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 697428,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Triforce/Triforce.motheme"
+    },
+    {
+      "name": "Triforce II",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 304340,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Triforce%20II/Triforce%20II.motheme"
+    },
+    {
+      "name": "Triforce III",
+      "author": "Pipstol",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 251876,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pipstol/Triforce%20III/Triforce%20III.motheme"
+    },
+    {
+      "name": "'Murica",
+      "author": "Pluupy",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 1980304,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Pluupy/%27Murica/%27Murica.motheme"
+    },
+    {
+      "name": "Rasco's Dark Theme",
+      "author": "RascoSakuraba",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 51424,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/RascoSakuraba/Rasco%27s%20Dark%20Theme/Rasco%27s%20Dark%20Theme.motheme"
+    },
+    {
+      "name": "Goku Theme",
+      "author": "Regnum",
+      "version": "v1",
+      "description": "",
+      "previews": 1,
+      "size": 555846,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Regnum/Goku%20Theme/Goku%20Theme.motheme"
+    },
+    {
+      "name": "Dark Grey",
+      "author": "Shadowhand",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 54855,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Shadowhand/Dark%20Grey/Dark%20Grey.motheme"
+    },
+    {
+      "name": "Magic Dark",
+      "author": "Stewartisme",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 94034,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Stewartisme/Magic%20Dark/Magic%20Dark.motheme"
+    },
+    {
+      "name": "Magic Dark (Lighter WiFi & Battery)",
+      "author": "Stewartisme",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 53381,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Stewartisme/Magic%20Dark%20%28Lighter%20WiFi%20%26%20Battery%29/Magic%20Dark%20%28Lighter%20WiFi%20%26%20Battery%29.motheme"
+    },
+    {
+      "name": "Shutterstock Free Use Images Gaming",
+      "author": "TonyNESgri",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 262594,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/TonyNESgri/Shutterstock%20Free%20Use%20Images%20Gaming/Shutterstock%20Free%20Use%20Images%20Gaming.motheme"
+    },
+    {
+      "name": "Gundam RX-78-2",
+      "author": "Unkown Author",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 817280,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Unkown%20Author/Gundam%20RX-78-2/Gundam%20RX-78-2.motheme"
+    },
+    {
+      "name": "Matrix Virus",
+      "author": "Unkown Author",
+      "version": "v1",
+      "description": "",
+      "previews": 0,
+      "size": 143736,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Unkown%20Author/Matrix%20Virus/Matrix%20Virus.motheme"
+    },
+    {
+      "name": "Monster Hunter Generations",
+      "author": "Vulpes-Vulpeos",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 859790,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Vulpes-Vulpeos/Monster%20Hunter%20Generations/Monster%20Hunter%20Generations.motheme"
+    },
+    {
+      "name": "Galaxy FBI Theme",
+      "author": "Zekamon",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 516582,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/Zekamon/Galaxy%20FBI%20Theme/Galaxy%20FBI%20Theme.motheme"
+    },
+    {
+      "name": "arc13's Dark",
+      "author": "arc13",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 58593,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/arc13/arc13%27s%20Dark/arc13%27s%20Dark.motheme"
+    },
+    {
+      "name": "arc13's Light",
+      "author": "arc13",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 56294,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/arc13/arc13%27s%20Light/arc13%27s%20Light.motheme"
+    },
+    {
+      "name": "Animal Crossing",
+      "author": "elBenyo",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 1063530,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/elBenyo/Animal%20Crossing/Animal%20Crossing.motheme"
+    },
+    {
+      "name": "Dark Material Theme",
+      "author": "mdj03",
+      "version": "v1",
+      "description": "",
+      "previews": 2,
+      "size": 54219,
+      "url": "https://raw.githubusercontent.com/morrisonion/FBI-MO-Theme-Store/main/Authors/mdj03/Dark%20Material%20Theme/Dark%20Material%20Theme.motheme"
+    }
+  ]
+}

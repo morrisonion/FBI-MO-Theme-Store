@@ -1,4 +1,0 @@
-button - 300x60
-button_large - 300x60
-button_small - 145x60
-logo - 128x128

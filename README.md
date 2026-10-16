@@ -1,17 +1,33 @@
-# FBI-Theme-Unistore
-A collection of themes for the FBI app, collected and cataloged by me and created by many others. All credit for the themes go to the original authors. I do not claim to have made any of these individual themes. If you are an author and would like your theme removed, please contact me with proof it is yours and I will gladly take it down.
+# FBI-MO-Theme-Store
 
-If you'd like a FBI theme added to the store or have any problems with an installed/installing a theme, please create a new issue in the Issues tab.
+Theme catalog for the **Theme Store** in [FBI-MO](https://github.com/morrisonion/FBI-MO).
 
-The build script and all code is written to work with Python 3.11, but similar python versions may work aswell.
+thanks to [The0zymandias](https://github.com/The0zymandias) for the original FBI theme Unistore.
 
-Unistore installation steps:
-1. Make sure you have Universal-Updater on your 3DS
-2. Open Universal-Updater and then select the gear icon on the bottom left
-3. Select 'Select Unistore'
-4. At the bottom center, tap on the plus icon
-5. Select the QR icon in the bottom left and then scan this QR code.
-6. You can now swap between the default homebrew store (Universal-DB) and this FBI themes store by going to 'Select Unistore'.
+ All credit for the themes goes to the original authors. If you are an author and want your theme removed, contact me with proof it is yours.
 
+## How it works
 
-![Alt text](unistore-qr.png)
+* `themestore.json` is the endpoint FBI-MO downloads into `sdmc:/fbi/themes/` on the 3DS.
+* Every theme is a `.motheme` file (a ZIP renamed from `.zip`):
+
+```
+name.txt        <- theme name 
+Previews/       <- optional PNG previews
+theme/          <- the theme itself (normal FBI theme layout); extracted to sdmc:/fbi/theme
+```
+
+* Themes live in `Authors/<Author>/<Theme>/<Theme>.motheme`.
+
+## themestore.json format
+
+```json
+{
+  "store":  { "title": "...", "author": "...", "description": "...", "format": 1, "revision": 1 },
+  "themes": [
+    { "name": "Simple Dark", "author": "1ted59", "version": "v1", "description": "",
+      "previews": 2, "size": 69645, "url": "https://raw.githubusercontent.com/.../Simple%20Dark.motheme" }
+  ]
+}
+```
+FBI-MO reads `name`, `author`, `version`, `description` and `url`.
