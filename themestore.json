@@ -1,16 +1,8 @@
 {
-  "store": {
-    "title": "FBI-MO Theme Store",
-    "author": "morrisonion",
-    "description": "Themes for FBI-MO",
-    "format": 1,
-    "revision": 1
-  },
   "themes": [
     {
       "name": "Simple Dark",
       "author": "1ted59",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 69645,
@@ -19,7 +11,6 @@
     {
       "name": "DarkPlus",
       "author": "2b-zipper",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 38904,
@@ -28,7 +19,6 @@
     {
       "name": "Ok Computer - Radiohead",
       "author": "Brumbpo Tungus",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 626118,
@@ -37,7 +27,6 @@
     {
       "name": "CHT_Player's Theme",
       "author": "CHT_Player",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 553338,
@@ -46,7 +35,6 @@
     {
       "name": "Persona 5 Ann Theme",
       "author": "FancyQuinn",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 680416,
@@ -55,7 +43,6 @@
     {
       "name": "Hatsune Miku",
       "author": "Goofyanimefan",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 635604,
@@ -64,7 +51,6 @@
     {
       "name": "Giratina",
       "author": "GrewdonGaming21",
-      "version": "v1",
       "description": "Fixed by Ozymandias",
       "previews": 2,
       "size": 375460,
@@ -73,7 +59,6 @@
     {
       "name": "Team Aqua",
       "author": "GrewdonGaming21",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 978857,
@@ -82,7 +67,6 @@
     {
       "name": "Team Magma",
       "author": "GrewdonGaming21",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 889448,
@@ -91,7 +75,6 @@
     {
       "name": "Asuka Langley - Neon Genesis Evangelion",
       "author": "JhonSmith",
-      "version": "v1",
       "description": "",
       "previews": 4,
       "size": 714881,
@@ -100,7 +83,6 @@
     {
       "name": "FBI - Winners Don't Use Drugs",
       "author": "Jirachi_star",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 73648,
@@ -109,7 +91,6 @@
     {
       "name": "Simple Mint",
       "author": "McWhiters9511",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 74699,
@@ -118,7 +99,6 @@
     {
       "name": "FBI Literal Theme",
       "author": "MustacheBoyo",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 148857,
@@ -127,7 +107,6 @@
     {
       "name": "FBI Literal Theme V2",
       "author": "MustacheBoyo",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 220835,
@@ -136,7 +115,6 @@
     {
       "name": "Dedsec Inspired",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 337941,
@@ -145,7 +123,6 @@
     {
       "name": "Dedsec Inspired (no ASCII art)",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 340156,
@@ -154,7 +131,6 @@
     {
       "name": "Pikachu",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 169046,
@@ -163,7 +139,6 @@
     {
       "name": "Powerpuff Girls",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 761697,
@@ -172,7 +147,6 @@
     {
       "name": "Team Rainbow Rocket",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 362212,
@@ -181,7 +155,6 @@
     {
       "name": "dotHack Skeith and Haseo",
       "author": "Navonod",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 652494,
@@ -190,7 +163,6 @@
     {
       "name": "Ryomou Shimei",
       "author": "Nekukun97",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 1084202,
@@ -199,7 +171,6 @@
     {
       "name": "The Legend of Zelda 3DS",
       "author": "OblivionReign",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 719021,
@@ -208,7 +179,6 @@
     {
       "name": "Hotel Dusk - Last Window",
       "author": "Patoman0-0",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 653202,
@@ -217,7 +187,6 @@
     {
       "name": "Akashic Records",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 425028,
@@ -226,7 +195,6 @@
     {
       "name": "Bravely Default",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 600932,
@@ -235,7 +203,6 @@
     {
       "name": "Charizard X",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 432532,
@@ -244,7 +211,6 @@
     {
       "name": "Fire Emblem Echos",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 809894,
@@ -253,7 +219,6 @@
     {
       "name": "Kanna",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 921456,
@@ -262,7 +227,6 @@
     {
       "name": "Kirby",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 392073,
@@ -271,7 +235,6 @@
     {
       "name": "Lucina - Fire Emblem",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 674252,
@@ -280,7 +243,6 @@
     {
       "name": "Megumin",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 332679,
@@ -289,7 +251,6 @@
     {
       "name": "Monster Hunter",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 673794,
@@ -298,7 +259,6 @@
     {
       "name": "Overwatch Reaper",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 420245,
@@ -307,7 +267,6 @@
     {
       "name": "Phoenix Wright",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 390561,
@@ -316,7 +275,6 @@
     {
       "name": "Rem",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 333533,
@@ -325,7 +283,6 @@
     {
       "name": "Sabrina",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 490644,
@@ -334,7 +291,6 @@
     {
       "name": "Summon Night 5 EX VE",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 403122,
@@ -343,7 +299,6 @@
     {
       "name": "Triforce",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 697428,
@@ -352,7 +307,6 @@
     {
       "name": "Triforce II",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 304340,
@@ -361,7 +315,6 @@
     {
       "name": "Triforce III",
       "author": "Pipstol",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 251876,
@@ -370,7 +323,6 @@
     {
       "name": "'Murica",
       "author": "Pluupy",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 1980304,
@@ -379,7 +331,6 @@
     {
       "name": "Rasco's Dark Theme",
       "author": "RascoSakuraba",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 51424,
@@ -388,7 +339,6 @@
     {
       "name": "Goku Theme",
       "author": "Regnum",
-      "version": "v1",
       "description": "",
       "previews": 1,
       "size": 555846,
@@ -397,7 +347,6 @@
     {
       "name": "Dark Grey",
       "author": "Shadowhand",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 54855,
@@ -406,7 +355,6 @@
     {
       "name": "Magic Dark",
       "author": "Stewartisme",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 94034,
@@ -415,7 +363,6 @@
     {
       "name": "Magic Dark (Lighter WiFi & Battery)",
       "author": "Stewartisme",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 53381,
@@ -424,7 +371,6 @@
     {
       "name": "Shutterstock Free Use Images Gaming",
       "author": "TonyNESgri",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 262594,
@@ -433,7 +379,6 @@
     {
       "name": "Gundam RX-78-2",
       "author": "Unkown Author",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 817280,
@@ -442,7 +387,6 @@
     {
       "name": "Matrix Virus",
       "author": "Unkown Author",
-      "version": "v1",
       "description": "",
       "previews": 0,
       "size": 143736,
@@ -451,7 +395,6 @@
     {
       "name": "Monster Hunter Generations",
       "author": "Vulpes-Vulpeos",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 859790,
@@ -460,7 +403,6 @@
     {
       "name": "Galaxy FBI Theme",
       "author": "Zekamon",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 516582,
@@ -469,7 +411,6 @@
     {
       "name": "arc13's Dark",
       "author": "arc13",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 58593,
@@ -478,7 +419,6 @@
     {
       "name": "arc13's Light",
       "author": "arc13",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 56294,
@@ -487,7 +427,6 @@
     {
       "name": "Animal Crossing",
       "author": "elBenyo",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 1063530,
@@ -496,7 +435,6 @@
     {
       "name": "Dark Material Theme",
       "author": "mdj03",
-      "version": "v1",
       "description": "",
       "previews": 2,
       "size": 54219,
